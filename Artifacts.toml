@@ -1,0 +1,204 @@
+[[fastp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "aa9769a9526fb0138d198b6461a681f1034cc5f1"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "3ad1f328a14cc4b816de78cad246b90858be9bd8e692d7eb6bc6007ec6d297e8"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.aarch64-linux-gnu-cxx03.tar.gz"
+[[fastp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "75b946c9a614d571d24cde5f8648fd23577e6eb6"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "3f12babb2ee5b5e1e1c6f5664a51aba5c9d41b2a303d3249406562f5eebfa638"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.aarch64-linux-gnu-cxx11.tar.gz"
+[[fastp]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d42d521326e14b6cb1fa39f67036ed6623e40093"
+libc = "musl"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "0ece88b576e2b041b902c32c945637de565da8f063f154019c6c29cd4855ef02"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.aarch64-linux-musl-cxx03.tar.gz"
+[[fastp]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5c7fe49cc15ca82f4cf41df97659046f8bad7ba6"
+libc = "musl"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "10618ff8497e1aeaeb77a6fe4e30e546d6dd5e0fec515beb5fde16249c947226"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.aarch64-linux-musl-cxx11.tar.gz"
+[[fastp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b6b0516de00a811d7e1dd4dc6460ad5f78e6b445"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "1980cdb96770651bb86b00e537aa0e137329061ff8673c0fd7c39332ed034c55"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[fastp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1925682b7a0a6e2e08ef53ca97583526b7d97086"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "78d460aa2a3d75ffc818c3539b4de69d46ce742dfcde0963df98779c584bf0b6"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[fastp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "15f8cdb5a8ce11107eafd92e0542548e2818381c"
+libc = "musl"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "b1a4763601f5c1171726dd0eeae5b9212e3d30505b0b6b7994d6b597bf0e6326"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[fastp]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f70e9f51320aae858e06114c3e58bc4acc794ad3"
+libc = "musl"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "86cc67b62abceff380da4ba8f88895f58e92d7ff96f0433f8928a70944df4134"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[fastp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6c227b1ba6f3c3e0a7d80dd592c0e2509e659368"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "c521365a424de5b328caab1bdbd84752c802268af4950c02c88dadb19b4751ab"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[fastp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "771ee599ecd6a1089910a2af2902ba63fc48ad57"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "5c824079369a932a95bace19695b3f9a251e9a10340c6b29044febcd0449fa9b"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[fastp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "23414f1b46aa8355154366fc181294c4ec851399"
+libc = "musl"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "edc6e048e4404c44ded3bfb791b8ddc5d57ba9c69c0b6f9ffb9ac469eb41aada"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[fastp]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "23fe8d1530dcdf257c0907af9387b81faf0ea5b5"
+libc = "musl"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "36b712e71a481f110216d61e01c4f561faccaf0a76fe83395dc22c6f788fd48e"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[fastp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "08670654e327c410195c1ca8e26c055fc0f8be00"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "ff7e08c490da5ad5366c97d6da3a33028c0d09c62ff1b51d8989e2705d6e79a8"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[fastp]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "34a1112712de219cb00cd0bb5dc0a794cf5d1e27"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "d495e995e7a5a7de6276e9f77eb73557b53f37ba5f93454c44185720546e69ad"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[fastp]]
+arch = "x86_64"
+git-tree-sha1 = "05e9545e0cd55d390280b5011e470900b33beb27"
+os = "macos"
+
+    [[fastp.download]]
+    sha256 = "a894a3e91a403fad905f3415f98a03476eaa5c5191482ff7647d64ba5ad0191c"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.x86_64-apple-darwin.tar.gz"
+[[fastp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "532423d9dfbc32ee593811d67a00a279f9836e06"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "cdb9190ba78186c32dba6c9dc0d6f1061d55428e54387a857290a15277c329cb"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.x86_64-linux-gnu-cxx03.tar.gz"
+[[fastp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d4dff2e16ded6d9bdb55ea1ff55e6187c2f6cc59"
+libc = "glibc"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "5a7f1cf35d62a9026fdbc2147f412a6444d72aa1784aac7cc60052bce1f322d1"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.x86_64-linux-gnu-cxx11.tar.gz"
+[[fastp]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5c1f9892de07a99ff6e6b1296c9bb31049965302"
+libc = "musl"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "e3ace2beb825b115ba69d4756c6212b35f79e0ff8900f47a6e6d5075eb23e5e6"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.x86_64-linux-musl-cxx03.tar.gz"
+[[fastp]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "771eb8b6b1429580ceeba6c5c6813da87346b9b5"
+libc = "musl"
+os = "linux"
+
+    [[fastp.download]]
+    sha256 = "34f280988e22834813638974cff332d36708a3f24677a578a3d161fa45040e30"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.x86_64-linux-musl-cxx11.tar.gz"
+[[fastp]]
+arch = "x86_64"
+git-tree-sha1 = "a1805814ee09a7b36ce3bf49ea4a60bb25673e72"
+os = "freebsd"
+
+    [[fastp.download]]
+    sha256 = "d38d30f755726725293809e845f5458704d52ad823c4c6d03537f90d682a8215"
+    url = "https://github.com/JuliaBinaryWrappers/fastp_jll.jl/releases/download/fastp-v0.23.3+0/fastp.v0.23.3.x86_64-unknown-freebsd.tar.gz"
